@@ -2,7 +2,8 @@
 Demno video link :  https://youtu.be/HMoG3nCMTTA
 
 # Project Requirement 
--  Java 11 [required]
+-  Java 11 [required] []
+- ![img.png](img.png)
 
 Using:
 - Kotlin
